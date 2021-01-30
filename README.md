@@ -15,8 +15,9 @@
 > Exemplos de como carregar, visualizar, acessar propriedades, fazer cortes, espelhamentos e rotações de imagens.
 
 ### Tutorial 3: Manipulação de imagens em arquivos DICOM
-> Exemplos de como carregar arquivos DICOM, acessar e visualizar imagens e metadados.
 [INF0018_3_Manipulacao_DICOM.ipynb](/INF0018_3_Manipulacao_DICOM.ipynb)
+> Exemplos de como carregar arquivos DICOM, acessar e visualizar imagens e metadados.
+
 
 ## Material complementar
 
